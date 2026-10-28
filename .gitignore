@@ -7,7 +7,7 @@ node_modules/
 data/
 
 # Testing
-__tests__/
+
 coverage/
 
 # Environment Variables
